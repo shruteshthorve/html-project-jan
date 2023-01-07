@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+}
+
+img{
+    width: 1051px;
+    height: 762px;
+    margin-left: 58px;
+}
+
+a{
+    color: #000;
+}
